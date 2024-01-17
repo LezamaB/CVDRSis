@@ -1,0 +1,5 @@
+
+/* Define estilos para el input más largo */
+.input-mas-largo .swal2-select {
+    width: 400px; /* Ajusta el ancho del input según sea necesario */
+}
